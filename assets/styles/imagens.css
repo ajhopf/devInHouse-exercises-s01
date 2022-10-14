@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.row {
+  display: flex;
+  margin-top: 120px;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.column {
+  padding: 5px;
+  width: 33.33%;
+}
+
+.column img {
+  width: 100%;
+}

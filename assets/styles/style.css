@@ -1,0 +1,65 @@
+body {
+  align-items: center;
+  background-color: rgba(255, 255, 0, 0.333);
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  min-height: 100vh;
+}
+
+
+/*Main section*/
+
+main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 120px;
+  width: 70vw;
+}
+
+h1 {
+  background-image: url("../images/waves-background.webp");
+  background-size: cover;
+  color: rgb(165, 42, 142);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  height: 60px;
+  padding-top: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+hr {
+  width: 100%;
+}
+
+p {
+  font-size: 14px;
+}
+
+/*Link to images*/
+
+#btn {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+}
+
+/*Video player*/
+
+.player {
+  text-align: center;
+}
+
+
+
+
+
+
